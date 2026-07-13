@@ -1,5 +1,175 @@
 pptx_file,slide_num,img_path,img_type,explanation
-studentfiles_group_6.pptx,6,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group_6/slide_006_image_01.png,chart,What I learned: I spend more time on social media on weekends because I have the time to use it. I am not sure yet if there is a correlation between my sleep in minutes compared to my social media usage in minutes. Plan for changes: I want to figure out more ways to represent my data graphically Barriers: I think my social media usage is still pretty low compared to what it used to be because I deleted TikTok. My steps are not fully accurate because I cannot wear my apple watch during lacrosse games
-studentfiles_group_6.pptx,8,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group_6/slide_008_image_01.png,chart,"What I learned: I learned that the more active I am the longer I am able to sleep and the higher motivation I have for my academics Plan for changes: I want to find different ways to present my data clearly Barriers: I want to stay on top of tracking my academic performance, I forgot to track how motivated I did each day so it was more time consuming to look back on each assignment or try and remember."
-studentfiles_group_6.pptx,11,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group_6/slide_011_image_01.png,chart,
-studentfiles_group_6.pptx,13,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group_6/slide_013_image_01.png,chart,"What I learned: I Learned that my lack of sleep this past week really affected my focus academically but did not really affect my athletic performance Plan for changes: I updated the graph by switching everything to numeric scales to make the data easier to visualize. Sleep quality is now rated from 1–10 (1 = worst, 10 = best). Training load uses a 0–10 scale, where 0 represents an off day and 10 represents the hardest effort. Academic focus is now categorized on a 1–3 scale, with 1 = low, 2 = medium, and 3 = high. Barriers: Since this week and next week I have midterms coming up, the lack of sleep should go up after this week due to not having any barriers for spring break. I also feel this graph is very cluttered so I need to find a better way to organize my data to make it look clearer."
+studentfiles_group8.pptx,3,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_003_image_01_chart.png,chart,"Weekly | FEB 15-21 | FEB 22-28 | Your mood during the day | Morning 2 check-ins: 100% (yellow) | Afternoon 3 check-ins: 66% (yellow), 33% (blue) | Evening 4 check-ins: 25% (yellow), 50% (blue), 25% (red) | Late Night 3 check-ins: 66% (green), 33% (green) | Reading the data: Yellow = High energy, pleasant emotion | Red = High energy, unpleasant emotion | Green = Low energy, pleasant emotion | Blue = Low energy, unpleasant emotion"
+studentfiles_group8.pptx,4,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_004_image_01_chart.png,chart,"MORE DATA
+
+Bar chart legend: High Energy - Pleasant, High Energy - Unpleasant, Low Energy - Pleasant, Low Energy - Unpleasant
+Bar chart x-axis: High Energy - Pleasant, High Energy - Unpleasant, Low Energy - Pleasant, Low Energy - Unpleasant
+Bar chart y-axis: 0, 1, 2, 3, 4, 5
+
+Line chart legend: High Energy, Low Energy
+Line chart x-axis: Emotional Triggers, Unpleasant Emotion, Pleasant Emotion
+Line chart y-axis: 0, 1, 2, 3, 4, 5
+
+Your overall check-in breakdown
+12 check-ins
+8%, 17%, 42%, 33%
+
+The emotions you felt most often
+Chill 2
+Determined 1
+Eager 1
+Challenged 1
+Motivated 1
+Pleasant 1
+Ashamed 1
+Numb 1
+Tired 1
+Burned Out 1"
+studentfiles_group8.pptx,5,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_005_image_01.png,chart,"Rena Nguyen (Week 1 Reflection) | I find myself watching movies towards night time due to conflicts with my schedule (i.e classes, homework, etc.). This makes the quantity that i watch movies one per day. However, if i manage my time right, i can try to squeeze more in. | Alongside watching movies, my schedule conflicts with getting time in to try to write. As a result, i only started one writing project that is currently unfinished. | Out of the movies i’ve watched this week, only one movie scored a motivation score above 5. While seeing why this movie had a higher score than the others, i determined that it scored higher because it was a movie that i have not watched in a long time yet i have taken a liking in it. With that being said, i would like to see if rewatching movies will score higher (in motivation) than movies that i’m watching for the first time. Although, in addition to that one movie, two other movies were counted as rewatches but scored lower. Perhaps i can try to adjust what movies i watch so it can be a mix of rewatches and first time watches."
+studentfiles_group8.pptx,5,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_005_image_02.png,chart,"Rena Nguyen (Week 1 Reflection) | I find myself watching movies towards night time due to conflicts with my schedule (i.e classes, homework, etc.). This makes the quantity that i watch movies one per day. However, if i manage my time right, i can try to squeeze more in. | Alongside watching movies, my schedule conflicts with getting time in to try to write. As a result, i only started one writing project that is currently unfinished. | Out of the movies i’ve watched this week, only one movie scored a motivation score above 5. While seeing why this movie had a higher score than the others, i determined that it scored higher because it was a movie that i have not watched in a long time yet i have taken a liking in it. With that being said, i would like to see if rewatching movies will score higher (in motivation) than movies that i’m watching for the first time. Although, in addition to that one movie, two other movies were counted as rewatches but scored lower. Perhaps i can try to adjust what movies i watch so it can be a mix of rewatches and first time watches."
+studentfiles_group8.pptx,5,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_005_image_03.png,chart,"Rena Nguyen (Week 1 Reflection) | I find myself watching movies towards night time due to conflicts with my schedule (i.e classes, homework, etc.). This makes the quantity that i watch movies one per day. However, if i manage my time right, i can try to squeeze more in. | Alongside watching movies, my schedule conflicts with getting time in to try to write. As a result, i only started one writing project that is currently unfinished. | Out of the movies i’ve watched this week, only one movie scored a motivation score above 5. While seeing why this movie had a higher score than the others, i determined that it scored higher because it was a movie that i have not watched in a long time yet i have taken a liking in it. With that being said, i would like to see if rewatching movies will score higher (in motivation) than movies that i’m watching for the first time. Although, in addition to that one movie, two other movies were counted as rewatches but scored lower. Perhaps i can try to adjust what movies i watch so it can be a mix of rewatches and first time watches."
+studentfiles_group8.pptx,8,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_008_image_01_chart.png,chart,"Jessica Baek (Week 2 Reflection)
+Reading the data:
+- Yellow = High energy, pleasant emotion
+- Green = Low energy, pleasant emotion
+- Blue = Low energy, unpleasant emotion
+
+Chart title: Your mood during the day
+Bar chart with 4 bars:
+- Morning 1 check-in: 100% (yellow)
+- Afternoon 6 check-ins: 83% (yellow), 16% (green)
+- Evening 2 check-ins: 50% (yellow), 50% (blue)
+- Late Night 3 check-ins: 66% (yellow), 33% (green)
+
+Reflection text:
+1) Even though this week was a tough week for me, I learned that I put in positive emotions the most this week. I would write that I feel ready for the day, prepared for all the work I had that week, etc. I noticed a correlation with the amount of motivation and the amount of sleep I had. I would have more motivation throughout the day when I had a lot of sleep compared to when I didn't get much sleep. I would also see lower moods/emotions during the day when I didn't have a lot of sleep.
+2) I might find some journal prompts to answer during my notes in the evenings to see if I can find any more emotional triggers...
+3) I wish I had put more emotional entries this week since this week had a lot of workload..."
+studentfiles_group8.pptx,9,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_009_image_01_chart.png,chart,"MORE DATA | High Energy - Pleasant | High Energy - Unpleasant | Low Energy - Pleasant | Low Energy - Unpleasant | High Energy | Low Energy | Bar chart y-axis: 0, 2, 4, 6, 8, 10 | Bar chart x-axis categories: High Energy - Pleasant, High Energy - Unpleasant, Low Energy - Pleasant, Low Energy - Unpleasant | Line chart y-axis: 0, 2, 4, 6, 8, 10 | Line chart x-axis: Emotional Triggers, Unpleasant Emotion, Pleasant Emotion"
+studentfiles_group8.pptx,10,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_010_image_01_chart.png,chart,"MORE DATA
+
+Reading the data:
+• Yellow = High energy, pleasant emotion
+• Green = Low energy, pleasant emotion
+• Blue = Low energy, unpleasant emotion
+
+Scatter plot:
+X-axis: Hours of Sleep (0, 2, 4, 6, 8, 10)
+Y-axis: Motivation Level (0, 1, 2, 3, 4, 5)
+Data points plotted at approximately (6,3), (7,3.7), (8,4), (10,5)
+
+Your overall check-in breakdown
+12 check-ins
+75% (large yellow circle)
+8% (small blue circle)
+17% (medium green circle)"
+studentfiles_group8.pptx,11,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_011_image_01.png,chart,"Rena Nguyen (week 2 reflection) | I continue to watch one movie per day to fit with my schedule. I proceeded to watch a mix of new movies and movies that i already have watched as i mentioned in the first reflection. This week consisted of mostly animated movies, with one movie being non-animated. Out of all the movies, only two had a motivation score above five. While i consider animated movies to be my favorite movie genre, perhaps rewatching movies (maybe those that i like?) might provoke a higher motivation score because i am willing to put in more effort to talk about how much i like it. I managed to complete only one writing project of one movie out of the two movies within the time that i had to myself. For this particular project, i accumulated a word count of 490 words and a flesch reading ease score of 63.4. While i barely missed the mark for hitting the 500 word count that i set for myself, the reading score indicates that my writing is standard and easy to read for the average adult. I will continue to strive for a higher word count while maintaining a similar reading score throughout future writing projects."
+studentfiles_group8.pptx,11,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_011_image_02.png,chart,"Rena Nguyen (week 2 reflection) | I continue to watch one movie per day to fit with my schedule. I proceeded to watch a mix of new movies and movies that i already have watched as i mentioned in the first reflection. This week consisted of mostly animated movies, with one movie being non-animated. Out of all the movies, only two had a motivation score above five. While i consider animated movies to be my favorite movie genre, perhaps rewatching movies (maybe those that i like?) might provoke a higher motivation score because i am willing to put in more effort to talk about how much i like it. I managed to complete only one writing project of one movie out of the two movies within the time that i had to myself. For this particular project, i accumulated a word count of 490 words and a flesch reading ease score of 63.4. While i barely missed the mark for hitting the 500 word count that i set for myself, the reading score indicates that my writing is standard and easy to read for the average adult. I will continue to strive for a higher word count while maintaining a similar reading score throughout future writing projects."
+studentfiles_group8.pptx,14,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_014_image_01_chart.png,chart,"Title: Your mood during the day
+Reading the data:
+Yellow = High energy, pleasant emotion
+Green = Low energy, pleasant emotion
+Blue = Low energy, unpleasant emotion
+Bars:
+Morning 2 check-ins: 50% yellow, 50% green
+Afternoon 2 check-ins: 50% yellow, 50% green
+Evening 6 check-ins: 33% yellow, 50% green, 16% blue
+Late Night 1 check-in: 100% yellow
+Main slide title: JESSICA BAEK (WEEK 3 REFLECTION)"
+studentfiles_group8.pptx,15,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_015_image_01_chart.png,chart,"MORE DATA
+
+Reading the data:
+• Yellow = High energy, pleasant emotion
+• Green = Low energy, pleasant emotion
+• Blue = Low energy, unpleasant emotion
+
+Scatter plot:
+X-axis: Hours of Sleep (0-7)
+Y-axis: Motivation Level (0.0-3.5)
+Data points at approximately (5, 3.0), (6, 3.0), (7, 3.3)
+
+Your overall check-in breakdown
+11 check-ins
+9% (Blue)
+46% (Green)
+45% (Yellow)"
+studentfiles_group8.pptx,16,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_016_image_01_chart.png,chart,"MORE DATA
+
+Bar chart legend: High Energy - Pleasant, High Energy - Unpleasant, Low Energy - Pleasant, Low Energy - Unpleasant
+Bar chart y-axis: 0 to 5
+Bar chart x-axis labels: High Energy - Pleasant, High Energy - Unpleasant, Low Energy - Pleasant, Low Energy - Unpleasant
+
+Line chart legend: High Energy, Low Energy
+Line chart y-axis: 0 to 10
+Line chart x-axis labels: Emotional Triggers, Unpleasant Emotion, Pleasant Emotion"
+studentfiles_group8.pptx,17,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_017_image_01.png,chart,"Rena nguyen (week 3 reflection) | This week, i decided to watch a mix of movies that i think i would like and rewatches of movies that i already like. By far, 6/7 movies scored a motivation rating above a 5. If i keep this up, then motivation scores for next week will be the highest of the data collecting weeks. | Despite these high motivation scores, all 6 of the movies are left half-completed. This was due to time constraints in my schedule. with midterms coming up, i’m only able to get a few words in. hopefully after midterms are over, then i can finish writing. | I decided to change the data visualization this week with a horizontal bar chart. I had a few other ways of visualizing the data but to save time, i decided to go along with this. Instead of doing two separate charts like last week, i combined the two."
+studentfiles_group8.pptx,20,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_020_image_01_chart.png,chart,"JESSICA BAEK (WEEK 4 REFLECTION)
+Emotion Label (y-axis): Pleasant, Unpleasant
+X-axis values: 0, 5, 10, 15, 20, 25
+Legend: High (blue), Low (olive/dark yellow)
+In this project, I tracked my emotions, energy levels, triggers, and journaling habits over 28 days. I wanted to understand how emotional awareness changes based on journaling and identifying triggers. For this plot, the graph shows how often I experienced pleasant vs unpleasant emotions. The graph shows that pleasant emotions occurred more frequently than unpleasant ones. This suggests that overall, my emotional state was more positive during the tracking period. This supports my hypothesis that tracking emotions help improve emotional awareness, since I was able to recognize more positive patterns."
+studentfiles_group8.pptx,21,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_021_image_01_chart.png,chart,"Title: JESSICA BAEK (WEEK 4 REFLECTION)
+Legend: Pleasant High Trend (blue line), Unpleasant Low Trend (olive/gold line)
+Y-axis values: 0, 5, 10, 15, 20, 25
+X-axis values: 0, 10, 20, 30, 40
+Caption: This graph shows how pleasant high-energy emotions and unpleasant low-energy emotions changed over time. The pleasant high-energy emotions increased more quickly than unpleasant ones. This means that over time, I experienced more positive emotional states. This supports the idea that frequent mood journaling and check-ins improve emotional awareness and emotional outcomes."
+studentfiles_group8.pptx,22,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_022_image_01_chart.png,chart,"Title: JESSICA BAEK (WEEK 4 REFLECTION)
+
+Reading the graph:
+- 17 = Pleasant High-Energy Emotion Entries
+- 2 = Pleasant Low-Energy Emotion Entries
+- 1 = Unpleasant High-Energy Emotion Entries
+- 4 = Unpleasant Low-Energy Emotion Entries
+
+Chart:
+Y-axis: Number of Entries (0, 5, 10, 15, 20, 25)
+X-axis: Trigger ID (17, 2, 1, 4)
+Bar values: 17 ≈ 24, 2 ≈ 10, 1 ≈ 1, 4 ≈ 6
+
+Caption: This graph shows how different emotional outcomes relate to triggers. Most entries were associated with pleasant high-energy emotions while fewer entries were linked to unpleasant emotions. This suggest that identifying triggers helped me better understand my emotions. This supports my hypothesis that identifying triggers improves emotional regulation, since I could recognize what influenced my mood."
+studentfiles_group8.pptx,23,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_023_image_01_chart.png,chart,"JESSICA BAEK (WEEK 4 REFLECTION)
+Trigger Count | Unpleasant Emotion Count
+Y-axis: 0, 2, 4, 6, 8, 10
+X-axis: Week 1, Week 2, Week 3, Week 4
+This graph shows the relationship between trigger identification and unpleasant emotions over four weeks. As the number of emotional triggers identified increased, the number of unpleasant emotions decreased. This suggests a negative relationship between two variables, where increased emotional awareness may be associated with improved emotional regulation. Therefore, this pattern supports my hypothesis."
+studentfiles_group8.pptx,25,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_025_image_01_chart.png,chart,"MORE DATA
+Reading the data:
+• Yellow = High energy, pleasant emotion
+• Green = Low energy, pleasant emotion
+• Red = High energy, unpleasant emotion
+• Blue = Low energy, unpleasant emotion
+
+Your emotions during the week
+Sun 4: 100%
+Mon 6: 83%, 16%
+Tue 7: 28%, 14%, 42%, 14%
+Wed 10: 70%, 20%, 10%
+Thu 6: 66%, 66%, 33%
+Fri 6: 16%, 66%, 16%
+Sat 2: 50%, 50%
+
+Your overall check-in breakdown
+41 check-ins
+2%, 15%, 59%, 24%"
+studentfiles_group8.pptx,26,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_026_image_01_chart.png,chart,"MORE DATA
+Reading the data:
+• Yellow = High energy, pleasant emotion
+• Green = Low energy, pleasant emotion
+• Red = High energy, unpleasant emotion
+• Blue = Low energy, unpleasant emotion
+
+Your mood during the day
+Morning 5 check-ins: 80% yellow, 20% green
+Afternoon 11 check-ins: 72% yellow, 18% green, 9% blue
+Evening 16 check-ins: 43% yellow, 25% green, 25% blue, 6% red
+Late Night 9 check-ins: 55% yellow, 33% green, 11% blue"
+studentfiles_group8.pptx,27,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_027_image_01.png,chart,"Hypothesis #1 - watching movies lead toward increased development in writing Based on the combined data of both charts, it can be determined that the results somewhat confirm my hypothesis. Taking away the days where no writing was done, the word counts of each project ranges from a word count of 490 to 579. I originally set the goal of each project to have a word count of at least 500 words and most projects have exceeded it. On the other hand, the reading score remained the same throughout each project, with a score of 9. The original goal was to get a score of 8-9. While each project scored the same, i would’ve wished for some projects to fluctuate to an 8."
+studentfiles_group8.pptx,27,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_027_image_02.png,chart,"Hypothesis #1 - watching movies lead toward increased development in writing Based on the combined data of both charts, it can be determined that the results somewhat confirm my hypothesis. Taking away the days where no writing was done, the word counts of each project ranges from a word count of 490 to 579. I originally set the goal of each project to have a word count of at least 500 words and most projects have exceeded it. On the other hand, the reading score remained the same throughout each project, with a score of 9. The original goal was to get a score of 8-9. While each project scored the same, i would’ve wished for some projects to fluctuate to an 8."
+studentfiles_group8.pptx,27,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_027_image_03.png,chart,"Hypothesis #1 - watching movies lead toward increased development in writing Based on the combined data of both charts, it can be determined that the results somewhat confirm my hypothesis. Taking away the days where no writing was done, the word counts of each project ranges from a word count of 490 to 579. I originally set the goal of each project to have a word count of at least 500 words and most projects have exceeded it. On the other hand, the reading score remained the same throughout each project, with a score of 9. The original goal was to get a score of 8-9. While each project scored the same, i would’ve wished for some projects to fluctuate to an 8."
+studentfiles_group8.pptx,28,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_028_image_01.png,chart,"Hypothesis #2 - watching movies can lead towards increased motivation in writing The results confirm my hypothesis. The chart fluctuates between high and low motivation scores, with the lowest being 1 and the highest being an 8.5. At the beginning of this project, scores remained low as i watched movies that did not give me a spark to write. However, once i managed to watch the movies that did, then it causes the scores to uptick, thus its gradual increase towards the end of the project."
+studentfiles_group8.pptx,28,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_028_image_02.png,chart,"Hypothesis #2 - watching movies can lead towards increased motivation in writing The results confirm my hypothesis. The chart fluctuates between high and low motivation scores, with the lowest being 1 and the highest being an 8.5. At the beginning of this project, scores remained low as i watched movies that did not give me a spark to write. However, once i managed to watch the movies that did, then it causes the scores to uptick, thus its gradual increase towards the end of the project."
+studentfiles_group8.pptx,29,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_029_image_01.png,chart,"What is the distribution of movie genres? Across all movies that i watched, i tracked a total of 7 different genres. These genres included: action, animation, comedy, drama, family, fantasy, and romance. Out of the 7, animation held the highest count with 8 movies being tracked. Following in with a tie is comedy and drama with a respective 5. Our lowest movie genre that was tracked was family, with a total of 2 movies."
+studentfiles_group8.pptx,29,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_029_image_02.png,chart,"What is the distribution of movie genres? Across all movies that i watched, i tracked a total of 7 different genres. These genres included: action, animation, comedy, drama, family, fantasy, and romance. Out of the 7, animation held the highest count with 8 movies being tracked. Following in with a tie is comedy and drama with a respective 5. Our lowest movie genre that was tracked was family, with a total of 2 movies."
+studentfiles_group8.pptx,30,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_030_image_01.png,chart,"What is the relationship between movie genres and motivation? I don’t think the results show if there is a relationship between movie genres and my motivation scores. Take for example the fantasy scores, while one movie has a score of an 8, the other two scored a 2 and a 1. Movie genres do not singlehandedly play a role in my motivation scores, as outside factors also contribute. While i tend to gravitate towards animation movies, it can be seen that some animated movie are scored low. Overall, it can be said that there is no relationship between the two. Movie genres alone cannot dictate my motivation to write something. What matters is if i have it in me to actually write and the content inside the movie."
+studentfiles_group8.pptx,30,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_030_image_02.png,chart,"What is the relationship between movie genres and motivation? I don’t think the results show if there is a relationship between movie genres and my motivation scores. Take for example the fantasy scores, while one movie has a score of an 8, the other two scored a 2 and a 1. Movie genres do not singlehandedly play a role in my motivation scores, as outside factors also contribute. While i tend to gravitate towards animation movies, it can be seen that some animated movie are scored low. Overall, it can be said that there is no relationship between the two. Movie genres alone cannot dictate my motivation to write something. What matters is if i have it in me to actually write and the content inside the movie."
+studentfiles_group8.pptx,31,https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image/studentfiles_group8/slide_031_image_01.png,chart,"Throughout this journey, i’ve come to learn that this project was a boost in helping me do something that i’ve been stuck on trying to do since last year. If it weren’t for this project, i wouldn’t have been motivated to write more, especially if it was just about how much i liked a movie. This project opened my eyes to how i come to write, just in general and when motivated because a movie made me do so. Of course while doing this project, i came across barriers. While i wished to have watched more movies, i was restrained to watching just one everyday. But despite that constraint, it actually allowed me to digest movies more rather than watching movies back to back. The results to my project isn’t perfect as i have came across struggles from my busy schedule. Even though this was a month-ish long project, i was at least able to grow in some way, in both my writing and how i look at movies. As i conclude my reflection, i now look at the 3 unfinished or unstarted drafts from the movie that inspired me to revolve my project around writing about movies. I hope that when i have time, i am able to fully put my knowledge that i have gained from this project into it."
