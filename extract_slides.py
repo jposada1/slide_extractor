@@ -286,6 +286,27 @@ def main(out_dir: Path, csv_path: Path, model: str) -> None:
 
     print(f"\nDone — {len(all_rows)} rows saved to {csv_path}")
 
+    # ── Update image paths to GitHub URLs ──────────────────────────────────────
+    GITHUB_BASE = "https://raw.githubusercontent.com/jposada1/slide_extractor/main/extracted_image"
+    import csv as csv_module
+    updated_rows = []
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        reader = csv_module.DictReader(f)
+        for row in reader:
+            local_path = Path(row["img_path"])
+            # Build GitHub URL: base / folder_name / filename
+            folder = local_path.parent.name
+            filename = local_path.name
+            row["img_path"] = f"{GITHUB_BASE}/{folder}/{filename}"
+            updated_rows.append(row)
+
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv_module.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(updated_rows)
+
+    print(f"Image paths updated to GitHub URLs in {csv_path}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
